@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/205f52c1-0fb3-4ddc-9a58-9bda597e4a1a/resourceGroups/deployment-progra-web_group/providers/Microsoft.Web/sites/deployment-progra-web",
+    "appService.deploySubpath": "."
+}
